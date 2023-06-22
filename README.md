@@ -2,7 +2,7 @@
 ![](https://repository-images.githubusercontent.com/618373530/f761c3e4-1c95-4857-84e7-1e9ce330c2c7)
 ## Français
 ### Contexte
-L'entreprise *TouNum* souhaite compléter leur offre de numérisation de documents auprès de leurs clients. Le grand nombre de documents de leurs clients à catégoriser étant très grands, il cherche donc fait à automatiser cette phase avec l'intelligence artificielle.
+L'entreprise *TouNum* souhaite compléter leur offre de numérisation de documents auprès de leurs clients. Le grand nombre de documents de leurs clients à catégoriser étant très grands, il cherche donc fait à automatiser cette phase avec l'intelligence artificielle
 
 ### Déroulé
 Le projet, s'est déroulé du 19 septembre 2022 au 21 octobre 2022, à la fin de cette période, nous avons rendu 3 livrables :
